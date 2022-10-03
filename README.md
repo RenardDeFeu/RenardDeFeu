@@ -26,7 +26,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-</br> | <i>For game dev : </i>
+ | <i>For game dev : </i>
 <a href="https://www.lexaloffle.com/pico-8.php" target="_blank" rel="noreferrer"> <img src="https://hb.imgix.net/daa4f4f06ae0362be8738d5a33f17ca31bf298b3.png?auto=compress,format&s=353a7629fd36a8da21de78f42f7f4bea" alt="pico8" width="40" height="40"/> </a>
 <a href="https://www.renpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.renpy.org/static/index-logo.png" alt="renpy" width="40" height="40"/> </a>
 <a href="https://www.rpgmakerweb.com/products/rpg-maker-mv" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/P31DZba.png" alt="rpgmakermv" width="40" height="40"/> </a>
