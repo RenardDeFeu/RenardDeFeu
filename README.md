@@ -30,7 +30,7 @@
 <a href="https://audacity.fr/" target="_blank" rel="noreferrer"> <img src="https://sites.google.com/a/csdn.qc.ca/recitcsdn/_/rsrc/1357743113395/pistes-d-integration/proceduriers/audacity/audacitylogo.png?height=200&width=200" alt="audacity" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://www.ipacpwd.net/images/images/Gimp.jpg" alt="gimp" width="40" height="40"/> </a> 
-</br>
+</br> For game dev : 
 <a href="https://www.lexaloffle.com/pico-8.php" target="_blank" rel="noreferrer"> <img src="https://hb.imgix.net/daa4f4f06ae0362be8738d5a33f17ca31bf298b3.png?auto=compress,format&s=353a7629fd36a8da21de78f42f7f4bea" alt="pico8" width="40" height="40"/> </a>
 <a href="https://www.renpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.renpy.org/static/index-logo.png" alt="renpy" width="40" height="40"/> </a>
 <a href="https://www.rpgmakerweb.com/products/rpg-maker-mv" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/P31DZba.png" alt="rpgmakermv" width="40" height="40"/> </a>
