@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm David Borg</h1>
 <h3 align="center">:octopus: A passionate developer in constant learning</h3>
 
-- :video_game: I’m currently working on [Don't Screw This Up](https://leffy21.itch.io/dont-screw-this-up)
+- :video_game: I’m currently working on [*Don't Screw This Up*](https://leffy21.itch.io/dont-screw-this-up)
 
-- 🌱 I’m currently learning at **Campus numérique in the Alps**
+- 🌱 I’m currently studying at [Campus numérique in the Alps](https://le-campus-numerique.fr/campus-annecy/) for the [*Application Developper Designer*](https://le-campus-numerique.fr/formation-developpeur/#concept-dev-app) diploma.
 
-- 💻 All of my projects are available at [https://leffy21.itch.io/](https://leffy21.itch.io/)
+- 💻 All of my games projects are available on my [Itch.io](https://leffy21.itch.io/) page !
 
-- 📫 How to reach me **david.borg@le-campus-numerique.fr**
+- 📫 How to reach me david.borg@le-campus-numerique.fr
 
 
 <h3 align="left">Languages and Tools:</h3>
